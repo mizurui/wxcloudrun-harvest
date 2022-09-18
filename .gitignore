@@ -1,0 +1,10 @@
+.idea
+.DS_store
+Thumbs.db
+*.tmp
+*.bak
+*.log
+.*.swp
+*.exe
+*.dll
+*.cmd
